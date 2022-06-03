@@ -58,6 +58,9 @@ Source-https://covid.ourworldindata.org/data/owid-covid-data.csv
        
 13. Predict Total case for a new date 
 
+# What to do 
+
+Predict the total number of COVID-19 cases in India.
 
 # Licensing, Authors, Acknowledgements, etc.
     
