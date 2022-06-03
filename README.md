@@ -59,12 +59,6 @@ Source-https://covid.ourworldindata.org/data/owid-covid-data.csv
 13. Predict Total case for a new date 
 
 
-NOTE: To convert anytime back from ordinal to date-time use the following sample code: from datetime import datetime ordinal value = 733828 # This is an example dt = datetime.fromordinal(ordinal value)
-       
-# Results and Conclusions
-
-This is still a project in progress. No conclusions yet.
-       
 # Licensing, Authors, Acknowledgements, etc.
     
     Author : Harshvardhan Joshi
